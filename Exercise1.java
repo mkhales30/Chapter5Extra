@@ -1,3 +1,13 @@
+ /**
+ * class name: Exercise1
+ * author: Monauver Rahman
+ * course: ITEC 2150
+ * date: October 26, 2022
+ * version 1.0
+ * description: The program will sum all the numbers, find the lowest number, 
+ * find the highest number, and computer the average. Upon completion of the processing, 
+ * the program will write a new text file named stats.txt with the information found
+  */
 import java.io.*;
 import java.util.*;
 public class Exercise1
