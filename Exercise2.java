@@ -1,3 +1,12 @@
+  /**
+ * class name: Exercise2
+ * author: Monauver Rahman
+ * course: ITEC 2150
+ * date: October 27, 2022
+ * version 1.0
+ * description: Will create three different objects of type Poem. The program shall 
+ * then open a text file named poems.txt for writing and write the information about each poem to the text file.
+  */
 import java.io.*;
 public class Exercise2
 {
