@@ -1,4 +1,12 @@
-
+ /**
+ * class name: Exercise3
+ * author: Monauver Rahman
+ * course: ITEC 2150
+ * date: October 27, 2022
+ * version 1.0
+ * description: The program will read the name and poet of each poem, 
+ * create an object of type Poem for each name/poet pair and print all the read poem info to the console.
+ */
 import java.io.*;
 import java.util.*;
 public class Exercise3 {
